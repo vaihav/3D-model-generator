@@ -1,0 +1,9 @@
+<Placemark>
+<name>Untitled Polygon</name>
+<styleUrl>#msn_ylw-pushpin</styleUrl>
+<Polygon>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
