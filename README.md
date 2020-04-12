@@ -1,0 +1,2 @@
+# 3D-model-generator
+The project is a novel approach to generate 3D buildings with semantics (here doors, windows). Machine learning model using decision tree and random forest is used to detect the semantics and then the semantics are being mapped at proper scale to 3D models. The study can be extended to include many other semantics related to buildings combined with actual 3D structure can give planners a tool to try and test various methods such as solar potential analysis at façade level by generating various combination of semantic for a 3D model. 
